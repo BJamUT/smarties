@@ -5,7 +5,7 @@
   --border: #e4e2dd;
   --text: #1f2320;
   --text-muted: #6b6f6a;
-  --accent: #1c6b4f;
+  --accent: #0066ff;
   --accent-contrast: #ffffff;
   --shadow: 0 1px 2px rgba(20, 20, 15, 0.06), 0 2px 8px rgba(20, 20, 15, 0.05);
 }
@@ -17,8 +17,8 @@
     --border: #2c3134;
     --text: #ecefec;
     --text-muted: #9aa19c;
-    --accent: #4fbf8f;
-    --accent-contrast: #08201a;
+    --accent: #5b9dff;
+    --accent-contrast: #08152b;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 2px 8px rgba(0, 0, 0, 0.35);
   }
 }
@@ -29,8 +29,8 @@
   --border: #2c3134;
   --text: #ecefec;
   --text-muted: #9aa19c;
-  --accent: #4fbf8f;
-  --accent-contrast: #08201a;
+  --accent: #5b9dff;
+  --accent-contrast: #08152b;
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 2px 8px rgba(0, 0, 0, 0.35);
 }
 
@@ -159,16 +159,13 @@ body {
   align-self: flex-start;
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
-  font-size: 0.8rem;
-  font-weight: 600;
+  justify-content: center;
   color: var(--accent);
-  text-decoration: none;
   padding-top: 0.4rem;
 }
 
 .linkedin:hover {
-  text-decoration: underline;
+  opacity: 0.75;
 }
 
 .empty-state {
