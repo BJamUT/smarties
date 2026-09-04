@@ -11,13 +11,22 @@
     <div class="header-inner">
       <h1>Smarty Team Directory</h1>
       <p class="subtitle">Search the Smarties — <span id="result-count"></span></p>
-      <div class="search-wrap">
-        <input
-          type="search"
-          id="search-input"
-          placeholder="Search by name, title, or bio..."
-          autocomplete="off"
-        />
+      <div class="controls-row">
+        <div class="search-wrap">
+          <input
+            type="search"
+            id="search-input"
+            placeholder="Search by name, title, or bio..."
+            autocomplete="off"
+          />
+        </div>
+        <div class="sort-wrap">
+          <label for="sort-select" class="sort-label">Sort by</label>
+          <select id="sort-select">
+            <option value="first">First name</option>
+            <option value="last">Last name</option>
+          </select>
+        </div>
       </div>
     </div>
   </header>
