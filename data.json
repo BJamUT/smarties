@@ -1060,5 +1060,23 @@
     "bio": "Susan brings over 20 years of HR experience from various Utah Valley startups. She excels at working for organizations with strong cultures, focusing on process improvement and the big picture. Her passion centers on people—helping them succeed and encouraging excellence. She's committed to making the workplace exceptional.",
     "linkedin": "https://www.linkedin.com/in/susan-young-shrm-cp-63a5484/",
     "profileUrl": "https://www.smarty.com/company/team/susan-young"
+  },
+  {
+    "slug": "benjamin-larson",
+    "name": "Benjamin Larson",
+    "title": "Senior Product Manager",
+    "photo": "images/benjamin-larson.jpg",
+    "bio": "Ben Larson is a serial entrepreneur at heart who loves the entire product lifecycle — from the first customer conversation to the API running reliably at scale — and now channels that as a Senior Product Manager at Smarty, driving roadmap and strategy for the company's address validation, geocoding, and enrichment APIs. He brings 25+ years in software to the role, including as co-founder and VP of Development/Engineering at the edtech company Imagine Learning, CTO and product/commercialization lead at the AI digital-pathology company Techcyte, and earlier engineering roles at LANDesk and Waterford Institute. He started out in Civil Engineering at BYU before his career shifted into software — an engineer's instinct for tradeoffs still shapes how he approaches product work today, from customer discovery to data quality to reliability at scale. Ben loves being part of the Smarty team and the problems we get to solve every day.",
+    "linkedin": null,
+    "profileUrl": null
+  },
+  {
+    "slug": "vivian-perfetti-schramm",
+    "name": "Vivian Perfetti-Schramm",
+    "title": "UX Designer",
+    "photo": "images/vivian-perfetti-schramm.jpg",
+    "bio": "I am a UX Designer with a passion for making human-centered designs, working backward from end-user experiences to ensure accessibility for all. I have experience in energy, publishing, non-profits, and hospitality, giving me insight and empathy on a vast demographic of users. When I am not researching or designing I love to hike and go on outdoor adventures. I also love dogs, especially corgis!",
+    "linkedin": null,
+    "profileUrl": null
   }
 ]
